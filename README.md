@@ -1,2 +1,3 @@
-Estudo de ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, TypeScript e JavaScript.
+Estudo de ReactJS, NextJS, Styled-Components, Testes com Jest , Storybook, Strapi, TypeScript e JavaScript 
+
 
